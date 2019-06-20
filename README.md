@@ -1,9 +1,15 @@
 drracket-gruvbox
 ================
 Gruvbox based colorscheme for DrRacket.
+
 Shamelessly stolen from [gruvbox](https://github.com/morhetz/gruvbox/)
-Doesn't exactly replicate the original scheme, rather the author decided to 
-settle with "looks good for now".
+
+Doesn't exactly replicate the original scheme, rather, 
+author decided to settle with "looks good for now".
+
+Screenshot
+-----------
+![screenshot](screenshots/ss.png)
 
 Installation
 ------------
